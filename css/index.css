@@ -1,8 +1,9 @@
+/* Intestazione */
+
 /* Scritta del logo */
 #textlogo{
     width: 170px;
 }
-
 /* sfondo del logo */
 #logo{
     background-image: url(../img/img/pattern.png);
@@ -13,6 +14,10 @@
     height: 70px;
 }
 
+/*/ Intestazione */
+
+
+/* Info autore */
 .autore{
     color: #808080;
     font-weight: bold;
@@ -25,3 +30,18 @@
 #data{
     font-size: 12px;
 }
+/*/ Info autore  */
+
+/* Articolo */
+
+/* Tabella */
+.rigablu{
+    background-color: #20A9E5;
+    color: white;
+}
+.rigaazzurra{
+    background-color: #B1E5F2;
+}
+
+/*/ Articolo  */
+
