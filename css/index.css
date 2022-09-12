@@ -1,4 +1,27 @@
-
+/* Scritta del logo */
 #textlogo{
-    width: 200px;
+    width: 170px;
+}
+
+/* sfondo del logo */
+#logo{
+    background-image: url(../img/img/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+    background-size: 270px;
+    background-color: #4EA0FF;
+    height: 70px;
+}
+
+.autore{
+    color: #808080;
+    font-weight: bold;
+}
+
+#nomeautore{
+    color: #20A9E5;
+}
+
+#data{
+    font-size: 12px;
 }
