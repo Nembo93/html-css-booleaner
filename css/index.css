@@ -45,3 +45,24 @@
 
 /*/ Articolo  */
 
+/* pubblicità */
+.pubblicità{
+    color: #808080;
+}
+
+.boxpubblicità{
+    color: white;
+    font-size: 25px;
+}
+
+#pubblicità1{
+    background-image: url(../img/img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+#pubblicità2{
+    background-image: url(../img/img/graph.jpg);
+    width: 312px;
+    height: 207px;
+}
