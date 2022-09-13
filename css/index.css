@@ -35,6 +35,9 @@
 /* Articolo */
 
 /* Tabella */
+.tabella{
+    border-collapse: collapse;
+}
 .rigablu{
     background-color: #20A9E5;
     color: white;
