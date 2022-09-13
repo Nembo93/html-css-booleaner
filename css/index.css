@@ -41,11 +41,14 @@
 .rigablu{
     background-color: #20A9E5;
     color: white;
+    text-align: left;
 }
 .rigaazzurra{
     background-color: #B1E5F2;
 }
-
+.rigagrande{
+    width: 60%;
+}
 /*/ Articolo  */
 
 /* pubblicità */
